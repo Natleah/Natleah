@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Natleah
-- Shitblox founder
-- I am decent with html and css (frontend) coding
+- I'm Natalie
+- Shitblox founder https://shitblox.com
+- https://www.oofedbananas.com
+- I am decent with html and css (frontend) coding ig
 - I am looking for collaborators for Shitblox
-- Discord server: https://discord.gg/tCB2ZQubhZ
+- Discord: Natlee#1210; https://discord.gg/tCB2ZQubhZ
 
-<!---
-Natleah/Natleah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
